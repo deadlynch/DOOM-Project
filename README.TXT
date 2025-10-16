@@ -1,7 +1,7 @@
-Fork do código fonte original do DOOM: ttps://github.com/id-Software/DOOM
+Fork do código fonte original do DOOM: https://github.com/id-Software/DOOM
 
-Ajustado para compilar em sistema operacionais linux modernos. Carece de alguns ajustes e melhorias, mas já está compilando e rodando. 
+Ajustado para compilar em sistema operacionais linux modernos. 
 
-Necessário arquivo ".wad" do jogo original para rodar.
+Necessário arquivo "doom.wad" do jogo original para rodar.
 
-Special thanks to Diego Cresto (DeusInMachina) and @hot_coffee_guy
+Special thanks to Diego Crespo (DeusInMachina) and @hot_coffee_guy
